@@ -1,5 +1,9 @@
+<p align="left">
+    <img src="./images/logo-background.png">
+</p>
+
 <p align="center">
-    <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/ad5d2e56-bb17-405a-a926-84cecb12b35c-profile_image-300x300.png">    
+    <img src="./images/profil-300x300.png">    
 </p>
 
 ### Hi there 👋
