@@ -17,3 +17,4 @@ Here are some links to get you started:
 
 - ⚡ Follow TakuDev on Twitter - [**@jojo58fr**](https://twitter.com/jojo58fr)
 - 📷 Follow TakuDev on Instagram - [**@joachim.miens**](https://www.instagram.com/joachim.miens/)
+- 🎬 Follow TakuDev on Twitch - [**@TakuDev**](https://www.twitch.tv/takudev)
